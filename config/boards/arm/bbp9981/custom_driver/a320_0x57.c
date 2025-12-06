@@ -198,7 +198,7 @@ static void a320_poll_work_handler(struct k_work *work) {
                     }
 
                     input_report_rel(dev, INPUT_REL_HWHEEL, -scroll_x, false, K_FOREVER);
-                    input_report_rel(dev, INPUT_REL_WHEEL, -scroll_y, true, K_FOREVER);
+                    input_report_rel(dev, INPUT_REL_WHEEL, scroll_y, true, K_FOREVER);
                 }
             }
         }
