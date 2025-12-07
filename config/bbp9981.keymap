@@ -108,7 +108,7 @@
 	pocket_safe: pocket_safe {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp K_PWR &ext_power EP_TOG>;
+            bindings = <&kp K_PWR &ext_power EP_OFF>;
         };
 		
 	tap: tap {
@@ -337,4 +337,5 @@
         };
     };
 };
+
 
