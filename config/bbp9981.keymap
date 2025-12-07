@@ -281,7 +281,7 @@
     &mtt LS(A) A	&mtt LS(S) S      &mtt LS(D) D	&mtt LS(F) F     &mtt LS(G) G	&mtt LS(H) H	&mtt LS(J) J	&mtt LS(K) K	&mtt LS(L) L        &kp BSPC
     &ALTL		&mtt LS(Z) Z      &mtt LS(X) X	&mtt LS(C) C     &mtt LS(V) V	&mtt LS(B) B	&mtt LS(N) N	&mtt LS(M) M	&mtt PSCRN DLLR     &kp ENTER
 
-    		         &SHFT				 &pckt 0 LG(N) 	      &kp SPACE			&EALT		 &sk LCTRL
+    		         &SHFT				 &pckt 0 0 	      &kp SPACE			&EALT		 &sk LCTRL
 
             >;
         };
@@ -337,3 +337,4 @@
         };
     };
 };
+
