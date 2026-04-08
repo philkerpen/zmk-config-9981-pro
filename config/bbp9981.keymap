@@ -275,7 +275,7 @@
         */
                  		&none                                                                                	&none
 
-		        &longtt LG(TAB) TAB		&kp C_AC_HOME	      &mkp LCLK			&kp K_BACK		 &mou_key CLCK RCLK
+		        &longtt LG(TAB) TAB		&kp C_AC_HOME	      &mkp LCLK			&kp C_AC_BACK		 &mou_key CLCK RCLK
 
     &mtt LS(Q) Q	&mtt LS(W) W      &mtt LS(E) E	&mtt LS(R) R     &mtt LS(T) T	&mtt LS(Y) Y	&mtt LS(U) U	&mtt LS(I) I	&mtt LS(O) O	    &mtt LS(P) P
     &mtt LS(A) A	&mtt LS(S) S      &mtt LS(D) D	&mtt LS(F) F     &mtt LS(G) G	&mtt LS(H) H	&mtt LS(J) J	&mtt LS(K) K	&mtt LS(L) L        &kp BSPC
